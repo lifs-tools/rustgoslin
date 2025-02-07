@@ -1,0 +1,13 @@
+[package]
+name = 'rust_goslin'
+version = '0.1.0'
+edition = '2021'
+
+[lib]
+crate-type = [ 'staticlib' ]
+name = 'rustgoslin'
+
+[dependencies]
+extendr-api = "*"
+lazy_static = "1.5.0"
+maplit = "1.0.2"
