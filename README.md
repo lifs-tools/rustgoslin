@@ -4,7 +4,7 @@ Rust implementation of the Goslin Parsers and binding to R
 **Disclaimer**: This project is in an early stage of development and is not yet ready for production use.
 
 ## Introduction
-This project is a Rust implementation of the Goslin parsers. The Goslin parsers are a set of parsers that can be used to parse lipid names according to the LIPID MAPS nomenclature. The parsers are used in the [LipidCreator](https://lipidcreator.org) and [LipidHome](https://lipidhome.co.uk) projects.
+This project is a Rust implementation of the [Goslin parsers](https://github.com/lifs-tools/goslin). The Goslin parsers are a set of parsers that can be used to parse lipid names according to the updated lipid shorthand nomenclature.
 
 This project was initiated at the EuBIC Developer's Meeting 2025, in Neustift, Italy.
 
